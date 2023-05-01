@@ -1,0 +1,13 @@
+.env
+alembic.ini
+auto_alembic.log
+CASOS DE PRUEBA - HOJA 1.csv
+example.log
+main.py
+pruebas.ipynb
+
+*env
+*de_models/
+*db/
+*alembic/
+*__pycache__
